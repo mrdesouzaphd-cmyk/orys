@@ -1,0 +1,44 @@
+{
+  "name": "orys",
+  "displayName": "DR. DE.SOUZ.AI Orys™",
+  "description": "Pedagogical diagnostic + lesson-plan engine for the AI-mediated classroom. Built on Orys Learning Architecture™ methodology and the 10 Orys Patterns™ (de Souza, 2025). Bilingual PT/EN. For higher-ed faculty, K-12 educators, and institutional accreditation.",
+  "version": "0.1.0",
+  "category": "productivity",
+  "author": {
+    "name": "Dr. de Souza",
+    "email": "mrdesouzaphd@gmail.com",
+    "url": "https://drdesouza.ai"
+  },
+  "homepage": "https://github.com/mrdesouzaphd-cmyk/orys",
+  "repository": "https://github.com/mrdesouzaphd-cmyk/orys",
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "higher-education",
+    "pedagogy",
+    "andragogy",
+    "orys",
+    "orys-learning-architecture",
+    "orys-patterns",
+    "learning-analytics",
+    "lesson-planning",
+    "bloom-taxonomy",
+    "udl",
+    "iacg-2026",
+    "bilingual",
+    "portuguese",
+    "english",
+    "competency-based",
+    "instructional-design",
+    "classroom",
+    "teaching",
+    "faculty"
+  ],
+  "skills": [
+    "./skills/architecture",
+    "./skills/diagnose",
+    "./skills/pattern",
+    "./skills/rubric",
+    "./skills/worksheet"
+  ]
+}
