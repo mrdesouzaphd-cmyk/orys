@@ -67,11 +67,11 @@ claude plugin validate ./orys
 ```
 /orys:architecture
 
-Theme: ventilatory patterns and thoracoabdominal mobility in infants
-Objective: connect biomechanics, physiology, and respiratory pathophysiology
-Audience: 28 Physiotherapy students, 8th semester, 21–35 yrs
+Theme: renewable natural resources — solar, wind, hydro, biomass, geothermal
+Objective: connect resource-extraction trade-offs with sustainability indicators
+Audience: 30 Environmental Sciences students, 4th semester, 18–24 yrs
 Modality: hybrid, flipped classroom, 90 min
-Context: 2 case studies + simulator training
+Context: 2 sustainability case studies + group decision-making activity
 Behavioral challenge: not sure — help me identify
 ```
 
@@ -149,11 +149,11 @@ claude plugin validate ./orys
 ```
 /orys:architecture
 
-Tema: padrões ventilatórios no ganho de mobilidade toracoabdominal em lactentes
-Objetivo: conectar conceitos de biomecânica, fisiologia e fisiopatologia respiratória
-Público: 28 estudantes de Fisioterapia, 8º semestre, 21–35 anos
+Tema: recursos naturais renováveis — solar, eólica, hidráulica, biomassa, geotérmica
+Objetivo: conectar trade-offs de extração de recursos com indicadores de sustentabilidade
+Público: 30 estudantes de Ciências Ambientais, 4º semestre, 18–24 anos
 Modalidade: híbrida, sala invertida, 90 min
-Contexto: 2 estudos de caso + treino em simulador
+Contexto: 2 estudos de caso de sustentabilidade + atividade de tomada de decisão em grupo
 Desafio comportamental: não sei dizer — me ajude a identificar
 ```
 
