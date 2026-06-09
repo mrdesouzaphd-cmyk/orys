@@ -100,6 +100,30 @@ Context: short reading + paired visual analysis + class share-out
 Behavioral challenge: they don't engage with each other beyond surface-level chat
 ```
 
+**Example D — High School long-block (US T/Th schedule), 75-min in-person:**
+```
+/orys:architecture
+
+Theme: civic engagement — voting rights and access in the 21st century
+Objective: analyze how voting laws shape participation and design one improvement proposal
+Audience: 26 high school social studies students, grade 11, 16–17 yrs
+Modality: in-person, 75 min
+Context: pre-class video + structured argumentation rounds + small-group proposal drafting
+Behavioral challenge: vocal minority dominates; others stay silent
+```
+
+**Example E — Workshop or laboratory (Higher Ed or HS elective), 120-min:**
+```
+/orys:architecture
+
+Theme: water quality testing protocols for community streams
+Objective: apply field-testing procedures and justify treatment recommendations from measured data
+Audience: 18 students in an environmental field methods course, 17–22 yrs (HS dual-enrollment + undergrads)
+Modality: in-person, 120 min, lab + outdoor component
+Context: simulator + real sample analysis + role-based reporting
+Behavioral challenge: students rush the procedure to "finish first" instead of thinking
+```
+
 Orys returns a complete branded lesson plan with pattern diagnostic, intervention design, rubric, and Learning Analytics indicators.
 
 ### License
@@ -205,6 +229,30 @@ Público: 32 alunos do 7º ano de geografia, 12–13 anos
 Modalidade: presencial, 45 min
 Contexto: leitura curta + análise visual em duplas + apresentação à turma
 Desafio comportamental: interagem na superfície mas não colaboram cognitivamente
+```
+
+**Exemplo D — Ensino Médio bloco longo, 75 min presencial:**
+```
+/orys:architecture
+
+Tema: engajamento cívico — direitos eleitorais e participação no século 21
+Objetivo: analisar como leis eleitorais moldam a participação e propor uma melhoria
+Público: 26 estudantes do 3º ano do Ensino Médio (Sociologia/História), 16–17 anos
+Modalidade: presencial, 75 min
+Contexto: vídeo pré-aula + rodadas estruturadas de argumentação + esboço de proposta em grupo
+Desafio comportamental: minoria vocal domina; demais ficam em silêncio
+```
+
+**Exemplo E — Oficina ou laboratório (Ensino Superior ou Médio Técnico), 120 min:**
+```
+/orys:architecture
+
+Tema: protocolos de análise da qualidade da água em córregos urbanos
+Objetivo: aplicar procedimentos de teste em campo e justificar recomendações de tratamento a partir dos dados
+Público: 18 estudantes de métodos de campo em Ciências Ambientais, 17–22 anos
+Modalidade: presencial, 120 min, laboratório + componente externo
+Contexto: simulador + análise de amostra real + relato em papéis colaborativos
+Desafio comportamental: estudantes apressam o procedimento para "terminar primeiro" em vez de raciocinar
 ```
 
 O Orys retorna o plano completo com diagnóstico do padrão, intervenção, rubrica e indicadores de Learning Analytics.
