@@ -5,7 +5,7 @@
 
 Built on **Orys Learning Architecture™** methodology and the **10 Orys Patterns™** — a published academic taxonomy of contemporary classroom behaviors (de Souza, 2025).
 
-Bilingual: **🇧🇷 Português** + **🇺🇸 English** | Designed for higher-ed faculty, K-12 educators, and institutional accreditation contexts.
+Bilingual: **🇧🇷 Português** + **🇺🇸 English** | Designed for **middle school, high school, and higher-education teachers** in the 🇺🇸 USA and 🇧🇷 Brazil. Aligned with IACG 2026 / CPA (Brazil), BNCC (BR K-12), HLC / SACSCOC / MSCHE / WSCUC (US higher-ed), Common Core / ESSA (US K-12).
 
 ---
 
@@ -62,17 +62,42 @@ claude plugin validate ./orys
 - [claude.ai/settings/plugins/submit](https://claude.ai/settings/plugins/submit)
 - [platform.claude.com/plugins/submit](https://platform.claude.com/plugins/submit)
 
-### Usage example
+### Usage examples (Orys adapts to any duration, modality, audience)
 
+**Example A — Higher Education (USA or Brazil), 90-min hybrid:**
 ```
 /orys:architecture
 
 Theme: renewable natural resources — solar, wind, hydro, biomass, geothermal
 Objective: connect resource-extraction trade-offs with sustainability indicators
-Audience: 30 Environmental Sciences students, 4th semester, 18–24 yrs
+Audience: 30 Environmental Sciences undergrads, 18–24 yrs
 Modality: hybrid, flipped classroom, 90 min
 Context: 2 sustainability case studies + group decision-making activity
 Behavioral challenge: not sure — help me identify
+```
+
+**Example B — High School, 50-min in-person:**
+```
+/orys:architecture
+
+Theme: ecosystem energy flow and food webs
+Objective: explain how energy transfers from producers to consumers and quantify loss between trophic levels
+Audience: 28 high school biology students, grade 10, 15–16 yrs
+Modality: in-person, 50 min
+Context: pre-class reading + in-class group analysis of a real ecosystem case
+Behavioral challenge: students avoid speaking when called on
+```
+
+**Example C — Middle School (US 7th grade / Brazil 7º ano), 45-min in-person:**
+```
+/orys:architecture
+
+Theme: Brazilian biomes vs. US biomes — comparative geography
+Objective: compare characteristics, climate, and biodiversity across at least 3 biomes
+Audience: 32 middle school geography students, grade 7, 12–13 yrs
+Modality: in-person, 45 min
+Context: short reading + paired visual analysis + class share-out
+Behavioral challenge: they don't engage with each other beyond surface-level chat
 ```
 
 Orys returns a complete branded lesson plan with pattern diagnostic, intervention design, rubric, and Learning Analytics indicators.
@@ -144,17 +169,42 @@ claude plugin validate ./orys
 - [claude.ai/settings/plugins/submit](https://claude.ai/settings/plugins/submit)
 - [platform.claude.com/plugins/submit](https://platform.claude.com/plugins/submit)
 
-### Exemplo de uso
+### Exemplos de uso (Orys se adapta a qualquer duração, modalidade, público)
 
+**Exemplo A — Ensino Superior (EUA ou Brasil), 90 min híbrido:**
 ```
 /orys:architecture
 
 Tema: recursos naturais renováveis — solar, eólica, hidráulica, biomassa, geotérmica
 Objetivo: conectar trade-offs de extração de recursos com indicadores de sustentabilidade
-Público: 30 estudantes de Ciências Ambientais, 4º semestre, 18–24 anos
+Público: 30 estudantes de graduação em Ciências Ambientais, 18–24 anos
 Modalidade: híbrida, sala invertida, 90 min
-Contexto: 2 estudos de caso de sustentabilidade + atividade de tomada de decisão em grupo
+Contexto: 2 estudos de caso + atividade de tomada de decisão em grupo
 Desafio comportamental: não sei dizer — me ajude a identificar
+```
+
+**Exemplo B — Ensino Médio, 50 min presencial:**
+```
+/orys:architecture
+
+Tema: fluxo de energia em ecossistemas e cadeias alimentares
+Objetivo: explicar como a energia se transfere entre produtores e consumidores
+Público: 28 alunos do 1º ano do Ensino Médio (biologia), 15–16 anos
+Modalidade: presencial, 50 min
+Contexto: leitura pré-aula + análise em grupo de um caso real de ecossistema
+Desafio comportamental: estudantes evitam falar quando chamados
+```
+
+**Exemplo C — Ensino Fundamental II (7º ano), 45 min presencial:**
+```
+/orys:architecture
+
+Tema: biomas brasileiros comparados com biomas dos EUA
+Objetivo: comparar características, clima e biodiversidade de pelo menos 3 biomas
+Público: 32 alunos do 7º ano de geografia, 12–13 anos
+Modalidade: presencial, 45 min
+Contexto: leitura curta + análise visual em duplas + apresentação à turma
+Desafio comportamental: interagem na superfície mas não colaboram cognitivamente
 ```
 
 O Orys retorna o plano completo com diagnóstico do padrão, intervenção, rubrica e indicadores de Learning Analytics.
