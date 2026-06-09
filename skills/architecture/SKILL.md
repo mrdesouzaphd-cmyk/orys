@@ -111,9 +111,44 @@ Table: Factual / Conceptual / Procedural / Metacognitive — with discipline-spe
 
 ~5 criteria × 3 levels (Sufficient / Partial / Insufficient). One criterion tagged to the active Orys Pattern™.
 
-### 7. Big Five Soft Skill Associated
+### 7. Soft Skill Integration (Authoritative Bloom × Big Five Mapping)
 
-Soft skill + 4–5 observable behaviors expected of students.
+Use the **canonical 1-to-1 mapping** from `reference/orys-learning-architecture.md`:
+
+| Bloom level | Primary Big Five trait |
+|---|---|
+| Know / Remember | **Extroversion** |
+| Understand | **Extroversion** |
+| Apply | **Conscientiousness** |
+| Analyze | **Emotional Stability** |
+| Evaluate | **Agreeableness** |
+| Innovate / Create | **Openness to the New** |
+
+**Embed the trait at the Architectural Layer where the Bloom level is activated.** Do not list "soft skills developed" at the end — make them OBSERVABLE behaviors integrated into the lesson stages:
+
+- ✅ "Layer 1 Activation — Extroversion evidence: Each student shares one example with a partner."
+- ✅ "Layer 3 Pattern Intervention — Conscientiousness evidence: Each trio member assumes a named role with a specific cognitive responsibility."
+- ❌ NEVER write "This lesson develops collaboration, focus, emotional regulation..." as a generic footer.
+
+Include in the output: per-trait observable behavior + a corresponding rubric criterion + a corresponding Learning Analytics indicator.
+
+### 7b. AI Literacy Stage (for any class using AI tools)
+
+If the user's class involves students using AI tools, add an explicit **AI Literacy sub-stage** within Layer 2 or Layer 5. The sub-stage must include a critique table the students fill in:
+
+| AI response check | Student task |
+|---|---|
+| Accuracy | What needs verification? |
+| Evidence | What claims require sources or data? |
+| Bias | What perspective may be missing? |
+| Feasibility | What idea seems unrealistic? |
+| Improvement | What would I revise? |
+
+This embeds critical AI evaluation as a core competency, not an afterthought.
+
+### 7c. Interdisciplinary Planning Hint (if applicable)
+
+For any topic that naturally crosses disciplines (e.g., renewable resources → science + geography + economics + ethics + civics), include a 1-line interdisciplinary callout naming 2–4 connected disciplines and how they could be brought in.
 
 ### 8. Active Learning Indicators + Actionable Learning Analytics
 
@@ -143,7 +178,18 @@ Citation: de Souza (2025), Orys Learning Architecture™ Vol. 1
 6. **Help with input [g].** If user says they don't know which signals apply, infer top 1 + 2 secondary patterns and explain reasoning. Let them confirm or refine.
 7. **Visual formatting.** Icons (🔸 layers, ✦ promises, ☑ indicators, 🧭🌅 brand), tables for tabular data, blockquotes for formulas.
 
-8. **⏱ TIME-BUDGET DISCIPLINE — MANDATORY.** Every strategy recommendation in Layer 2 and Layer 5 MUST fit the available minutes. Consult `reference/orys-learning-architecture.md` § Time-Budget Discipline for canonical strategy floors:
+8. **🎓 LEVEL-ADAPTIVE RIGOR — MANDATORY.** Match cognitive demand, evidence requirements, and product expectations to the audience level (input [c]):
+
+| Level | Cognitive demand | Evidence | Product | Example final product |
+|---|---|---|---|---|
+| Middle School (US 6–8 / BR Fund II) | Identify, classify, propose simple | Examples, observations | Worksheet, exit ticket, mini-poster | "Mini sustainability proposal for the school" |
+| High School (US 9–12 / BR EM) | Compare, justify, design | Reading + data + 1 source | Group proposal, debate position, structured argument | "Voting-rights improvement proposal with evidence" |
+| Higher Education (undergrad / pós) | Critically analyze, model, justify, design, evaluate | Scientific sources, peer-reviewed data, case studies, ethical reasoning | Policy brief, evidence-based intervention, prototype, impact analysis | "1–2 page policy brief on sustainable water use in [context]" |
+| Graduate / professional | Synthesize across literature, propose original frameworks | Cross-source synthesis, methodological argument | Research proposal, original framework, peer-reviewed quality output | "Original sustainability framework with empirical methodology" |
+
+Higher Education outputs MUST include: explicit AI literacy critique, stakeholder mapping, evidence-quality discussion, ethical dimension, feasibility conditions, and measurable success criteria. Never give a middle-school-level output to a higher-ed user just because the topic is similar.
+
+9. **⏱ TIME-BUDGET DISCIPLINE — MANDATORY.** Every strategy recommendation in Layer 2 and Layer 5 MUST fit the available minutes. Consult `reference/orys-learning-architecture.md` § Time-Budget Discipline for canonical strategy floors:
    - Compute available minutes per Layer from input [e] × default % allocation
    - Filter strategies to those whose minimum viable time fits
    - NEVER recommend Simulation (30 min floor), Jigsaw (30 min floor), or TAR Peer Feedback (15 min floor) when the Layer window is insufficient

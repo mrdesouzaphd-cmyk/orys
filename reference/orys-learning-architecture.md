@@ -149,20 +149,38 @@ Each criterion in the rubric is **observable** (the instructor can SEE it) and a
 
 ---
 
-## Big Five mapping (Costa & McCrae, 1992; Goleman, 1995)
+## Authoritative Bloom × Big Five Mapping (de Souza, 2025)
 
-Each Bloom verb activates one or more Big Five soft skills:
+**This is the canonical 1-to-1 mapping used by Orys Learning Architecture™.** Each Bloom verb activates ONE primary Big Five trait. The mapping is theoretically grounded in Costa & McCrae (1992) and operationalized in de Souza (2025).
 
-| Bloom verb (cluster) | Primary Big Five activated |
+| Bloom level | Primary Big Five trait | Why |
+|---|---|---|
+| **Know / Remember** | **Extroversion** | Communication, sharing of recall, talk-aloud of what is known |
+| **Understand** | **Extroversion** | Explanation, structured communication of understanding |
+| **Apply** | **Conscientiousness** | Focus, responsibility, task completion, procedural follow-through |
+| **Analyze** | **Emotional Stability** | Handling complexity, uncertainty, contradictory evidence without abandoning reasoning |
+| **Evaluate** | **Agreeableness** | Empathy, respectful disagreement, listening, integrating stakeholder perspectives |
+| **Innovate / Create** | **Openness to the New** | Creativity, flexibility, authentic novelty, design of feasible solutions |
+
+### Observable behaviors per trait (embed at the corresponding Architectural Layer)
+
+| Trait | Observable student behavior the instructor can SEE |
 |---|---|
-| Remember / Understand | Conscientiousness (attention, organization) |
-| Apply / Analyze | Conscientiousness + Extraversion (when collaborative) |
-| Evaluate | Openness + Emotional Stability |
-| Create | Openness + Conscientiousness |
-| Communicate / Present / Defend | Extraversion + Emotional Stability |
-| Collaborate / Co-construct | Agreeableness + Extraversion |
+| **Extroversion** | Student shares an example/explanation aloud, listens to a peer, adjusts the explanation when asked |
+| **Conscientiousness** | Student assumes a role, completes the assigned task, manages time within the group, helps the group reach the goal |
+| **Emotional Stability** | Student revises reasoning when finding contradictions or new evidence, does NOT abandon the task when uncertain |
+| **Agreeableness** | Student defends a position with evidence AND listens respectfully to opposing views, integrates at least one peer suggestion |
+| **Openness to the New** | Student proposes an original, flexible, feasible solution; willing to depart from the obvious answer |
 
-The class plan should name the primary Big Five activated by the chosen verb + 4–5 observable behaviors expected.
+### How to use this in plan output
+
+1. **Pick the Bloom verb** from the user's stated objective
+2. **Name the corresponding primary Big Five trait** from the table above (1-to-1)
+3. **Embed the trait as an observable behavior** at the Architectural Layer where that Bloom level is activated (Layer 1 if Know/Understand, Layer 2 if Apply/Analyze, Layer 3+5 if Evaluate, Layer 5+6 if Innovate)
+4. **Add to the rubric** — one criterion explicitly tagged to the soft skill (e.g., "Demonstrates emotional stability — revises reasoning when contradicted by data")
+5. **Add to the Learning Analytics indicators** — one indicator tied to observable trait expression
+
+The plan must NEVER simply list "soft skills developed" at the end — it must EMBED them as observable, assessable behaviors throughout the stages.
 
 ---
 
