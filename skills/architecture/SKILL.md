@@ -74,13 +74,50 @@ To organize your trail within the Orys Learning Architecture™, share:
 
 Follow this exact structure (use the language of the educator's inputs):
 
+### 0. 🧭 Frameworks Activated (MANDATORY HEADER on every plan)
+
+Open every output with a **Frameworks Activated** banner that names the integrated pedagogical frameworks the lesson uses. This makes the methodological depth visible at a glance.
+
+Format:
+
+> 🧭 **DR. DE.SOUZ.AI Orys™ — Frameworks Activated**
+> - 📚 **Pedagogy:** [Subject matter knowledge — Shulman 1986]
+> - 🎯 **Frameworks:** Bloom verb [VERB] + [Knowledge dimensions: Factual/Conceptual/Procedural/Metacognitive]
+> - 🛠️ **Active Learning:** [strategies used — TPS, Case-based, MCDA, etc.]
+> - ♿ **UDL:** Multiple means of [representation / engagement / expression activated]
+> - 👥 **Andragogy:** [problem-centered / self-directed / experience-anchored — if audience is adult]
+> - 🏛️ **IDL:** Backward design — [objective → assessment → activities]
+> - 🧠 **Orys Diagnostic:** Pattern [N] ([Name]) → [intervention summary]
+> - 🤖 **AI Literacy:** [yes/no — critique table included]
+>
+> *Citation: de Souza (2025); Bloom (1956); Knowles (1980); CAST/Meyer (2014); Wiggins & McTighe (1998); Anderson & Krathwohl (2001); Bergmann & Sams (2012).*
+
+This header tells every reader (teacher, dean, accreditation reviewer) what's pedagogically inside the plan WITHOUT them having to read all 14 sections.
+
 ### 1. Bloom Verb Adjustment + Pattern Diagnostic
 
 - **Adjusted Bloom verb** (Remember / Understand / Apply / Analyze / Evaluate / Create)
 - **Predominant knowledge domain** (Factual / Conceptual / Procedural / Metacognitive)
-- **Associated Big Five soft skill** (map to verb)
+- **Associated Big Five soft skill** (map to verb — strict 1-to-1 per `reference/orys-learning-architecture.md`)
 - **Active Orys Pattern™** — read inputs [c], [e], [f], [g] together. If [g] is "I don't know," diagnose top 1 dominant + 2 secondary patterns with reasoning. Reference `reference/orys-patterns.md`.
 - **Adjusted learning objective** — rewrite [b] with the new Bloom verb
+
+### 1b. Full 6-Bloom-Level Objectives Table (MANDATORY for Higher Ed and Graduate)
+
+**For Middle School / High School:** Show ONLY the dominant Bloom verb + objective.
+
+**For Higher Education / Graduate:** ALWAYS generate the full 6-row Bloom table. This is non-negotiable for university-level outputs — the lesson must scaffold through ALL 6 levels:
+
+| Bloom level | Learning objective (this lesson) | Content category | Quick evidence |
+|---|---|---|---|
+| **Remember** | Identify [domain-specific facts] | Factual | [Quiz / pre-class entry artifact] |
+| **Understand** | Explain [core concept relationships] | Conceptual | [Conceptual map / paired explanation] |
+| **Apply** | Use [criteria/framework] to [analyze cases] | Procedural | [Group decision matrix / classification] |
+| **Analyze** | Compare [trade-offs / alternatives] | Conceptual + Procedural | [Cause-effect diagram / comparative table] |
+| **Evaluate** | Defend [decision] with [evidence type] | Metacognitive + Procedural | [Argumentative artifact / 1-page brief] |
+| **Create** | Propose [original integrated solution] | Metacognitive | [Policy brief / intervention proposal / prototype concept] |
+
+Each row's "Quick evidence" must be observable AND collectible during the 90/120-min session.
 
 ### 2. Conceptual Syllabus
 

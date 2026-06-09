@@ -237,9 +237,34 @@ The standard 10 indicators (template — adapt to discipline):
 | TAR Peer Feedback | 15 min | 25–30 min | 45 min |
 | Storytelling / case unpack | 10 min | 20–30 min | 60 min |
 | Visual Thinking / concept map | 10 min | 20–30 min | 45 min |
+| **Multi-Criteria Decision Matrix (MCDA)** | **15 min** | **20–30 min** | **45 min** |
+| **Argumentation Rounds** | **10 min** | **15–25 min** | **40 min** |
+| **Structured Debate** | **20 min** | **30–45 min** | **60 min** |
 | Simulation / lab procedure | 30 min | 45–60 min | 90 min |
 | Jigsaw | 30 min | 45–60 min | 90 min |
 | Project-based (PBL) | 1 class | Multiple sessions | Weeks |
+
+### Multi-Criteria Decision Matrix (MCDA) — strategy specification
+
+**When to use:** Higher-ed case-based learning, policy analysis, ethical reasoning, sustainability decisions, clinical decision-making.
+
+**Standard 6-criterion structure** (adapt criteria to discipline):
+
+| Criterion | Pergunta-guia / Guiding question | Scale |
+|---|---|---|
+| Sustentabilidade ecológica / Ecological sustainability | Mantém ou recupera a regeneração? | 1–3 or 1–5 |
+| Viabilidade econômica / Economic viability | É financeiramente possível? | 1–3 or 1–5 |
+| Justiça social / Social justice | Quem ganha? Quem perde? Quem é ouvido? | 1–3 or 1–5 |
+| Governança / Governance | Há regras, fiscalização e participação? | 1–3 or 1–5 |
+| Risco climático / Resilience | Funciona sob incerteza? | 1–3 or 1–5 |
+| Evidência científica / Evidence quality | Apoiado em dados confiáveis? | 1–3 or 1–5 |
+
+**Produto / Product:** Decisão final com justificativa de 5–7 linhas, trade-offs e riscos.
+
+**Bloom level activated:** Analyze → Evaluate → Create (depending on stage)
+**Big Five traits activated:** Emotional Stability (handle contradictory evidence) + Agreeableness (integrate stakeholder views)
+
+*Grounding: Belton & Stewart (2002) — Multiple Criteria Decision Analysis; Roy (1996) — Multicriteria Methodology.*
 
 ### Realistic strategy stacks by total class duration
 

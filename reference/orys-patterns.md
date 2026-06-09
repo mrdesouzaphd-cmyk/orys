@@ -151,15 +151,67 @@ Canonical reference for the 10 Orys Patterns™ — an original academic taxonom
 
 **Bloom verbs that activate it most:** Analyze / Synthesize / Co-construct
 
-**Intervention (Orys Layer 3):**
-- **Behavioral objective:** Transform surface interaction into collaboration with shared cognitive responsibility.
-- **Collaboration structure (rotating trio roles):**
-  - **Clinical Reader / Domain Reader** — retrieves data and references
-  - **Conceptual Connector** — relates the domain concepts
-  - **Procedural Validator** — verifies coherence with action/practice
-- **Mandatory micro-deliverable formula:**
-  > *"Our group identified that finding ___ relates to ___ because ___; this can be observed or applied through ___."*
-- **Neurodidactic strategies:** Collaborative roles, pair/trio synthesis, brief co-authorship, minimal structures.
+**Intervention (Orys Layer 3) — menu of 5 protocols:**
+
+The Orys-8 intervention can mobilize ONE or MULTIPLE of these protocols based on the class context. For a 15-min Layer 3, pick 1–2. For a 25-min Layer 3, pick 2–3.
+
+**Behavioral objective (all protocols):** Transform surface interaction into collaboration with shared cognitive responsibility.
+
+#### Protocol 1 — Rotating Cognitive Roles (the canonical Orys-8 intervention)
+
+- **Clinical Reader / Domain Reader** — retrieves data and references
+- **Conceptual Connector** — relates the domain concepts
+- **Procedural Validator** — verifies coherence with action/practice
+
+**Time floor:** 10 min. **Best for:** trios/quartets analyzing a case.
+
+#### Protocol 2 — Mandatory Micro-Delivery Formula
+
+Each group must produce a consensual technical sentence using this exact template:
+
+> *"Our group identified that finding ___ relates to ___ because ___; this can be observed or applied through ___."*
+
+**Time floor:** 5 min after Protocol 1. **Best for:** forcing cognitive synthesis at end of group work.
+
+#### Protocol 3 — Rule 2+1 (Two Evidences + One Critical Question)
+
+Each student must contribute:
+- **2 pieces of evidence** to support the group's reasoning
+- **1 critical question** challenging the group's emerging conclusion
+
+The teacher tracks individual contributions. **Time floor:** 8 min. **Best for:** 4–5 person groups where one voice dominates.
+
+#### Protocol 4 — Productive Disagreement (Mandatory Technical Objection)
+
+Before any final group decision, the group MUST register **at least one technical objection** to its own emerging consensus. The objection must:
+- Be evidence-based (not opinion)
+- Identify a stakeholder or risk being ignored
+- Be answered or explicitly accepted as a limitation
+
+**Time floor:** 5 min. **Best for:** evaluative tasks where premature consensus is the failure mode.
+
+#### Protocol 5 — Silent Round + Shared Synthesis
+
+- **Silent Round (2 min):** Every student writes their individual hypothesis/decision before any group discussion.
+- **Shared Synthesis:** The group's Synthesizer does NOT decide alone — they consolidate written contributions visibly, requiring explicit validation from each member.
+
+**Time floor:** 5 min Silent Round + 5 min Synthesis = 10 min. **Best for:** classes where extroverts dominate and introverts disengage.
+
+#### Bonus — Cross-Audit (advanced)
+
+When time permits (Layer 3 ≥ 20 min), one group **audits another group's use of evidence**. The auditor must identify: (a) one well-used evidence, (b) one weak claim, (c) one missed stakeholder. **Best for:** Higher-Ed evaluative culminating sessions.
+
+---
+
+**Neurodidactic strategies underlying all 5 protocols:** Collaborative roles, pair/trio synthesis, brief co-authorship, minimal structures, named cognitive responsibilities.
+
+**Selection logic:**
+- 15-min Layer 3 → Protocols 1 + 2 (rotating roles + micro-delivery)
+- 20-min Layer 3 → Protocols 1 + 3 (rotating roles + 2+1 rule)
+- 25-min Layer 3 → Protocols 1 + 2 + 4 (full structure + productive disagreement)
+- 30-min Layer 3 → All five, sequenced
+- For Higher Ed evaluative tasks → always include Protocol 4 (productive disagreement)
+- For HS / MS first-time use → start with Protocol 1 + 2 only
 
 **Learning Analytics detection:**
 - Distributed collaborative participation (all members assume a cognitive function)

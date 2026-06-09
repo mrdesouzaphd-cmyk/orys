@@ -2,7 +2,7 @@
   "name": "orys",
   "displayName": "DR. DE.SOUZ.AI Orys™",
   "description": "Pedagogical diagnostic + lesson-plan engine for the AI-mediated classroom. Built on Orys Learning Architecture™ methodology and the 10 Orys Patterns™ (de Souza, 2025). Bilingual PT/EN auto-detection. For middle school, high school, and higher-ed teachers in the USA and Brazil — aligned with IACG 2026 / CPA (Brazil higher-ed), BNCC (Brazil K-12), HLC / SACSCOC / MSCHE / WSCUC (US higher-ed), and Common Core / ESSA / state standards (US K-12).",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "category": "productivity",
   "author": {
     "name": "Dr. de Souza",
