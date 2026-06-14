@@ -1,0 +1,50 @@
+{
+  "name": "orys",
+  "description": "Orys Learning Architecture™ — pedagogical methodology marketplace by Dr. de Souza. Framework-agnostic core plugin for MS + HS + Higher Ed teachers (USA + Brazil). Bilingual PT/EN.",
+  "owner": {
+    "name": "Dr. de Souza",
+    "email": "mrdesouzaphd@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "orys",
+      "source": "./",
+      "displayName": "Orys Learning Architecture™",
+      "description": "Orys Learning Architecture™ / Arquitetura de Aprendizagem Orys™ — pedagogical methodology plugin with 6 Architectural Layers, 10 Orys Patterns™, Bloom × Big Five 1-to-1 mapping, UDL, Andragogy, IDL, AI Literacy critique table, 5 Orys-8 collaboration protocols, time-budget discipline. Slash commands: /orys:architecture, /orys:diagnose, /orys:pattern, /orys:rubric, /orys:worksheet.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Dr. de Souza",
+        "email": "mrdesouzaphd@gmail.com"
+      },
+      "homepage": "https://drdesouza.ai",
+      "repository": "https://github.com/mrdesouzaphd-cmyk/orys",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "pedagogy",
+        "education",
+        "higher-education",
+        "high-school",
+        "middle-school",
+        "k12",
+        "bloom-taxonomy",
+        "udl",
+        "andragogy",
+        "active-learning",
+        "instructional-design",
+        "backward-design",
+        "constructive-alignment",
+        "ai-literacy",
+        "bilingual",
+        "portuguese",
+        "english",
+        "drdesouzai",
+        "orys",
+        "lesson-planning",
+        "rubric",
+        "worksheet",
+        "teaching-strategies"
+      ]
+    }
+  ]
+}
